@@ -2,7 +2,7 @@
 
 ## 💻 Software Engineer | Web Developer
 
-I'm a passionate developer specializing in **Laravel, Vue.js**, and scalable software solutions. I love writing clean code, applying **SOLID principles**, and continuously improving my web development skills.
+I'm a passionate developer specializing in **Laravel**, and scalable software solutions. I love writing clean code, applying **SOLID principles**, and continuously improving my web development skills.
 
 ---
 
