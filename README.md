@@ -6,20 +6,20 @@ I'm a passionate developer specializing in **Laravel**, and scalable software so
 
 ---
 
-## 📜 My Resume
+<!-- ## 📜 My Resume
 
 📝 You can view my resume in PDF format here:
 [📄 Download CV](https://github.com/alessandroxtieri/curriculum/blob/main/curriculum.pdf)
 
----
+--- -->
 
 ## 🚀 Technologies & Skills
 
-🔹 **Languages:** PHP, JavaScript, SQL, Java, Python, C, Bash  
-🔹 **Frameworks & Libraries:** Laravel, Vue.js, Bootstrap  
+🔹 **Languages:** PHP, HTML, CSS, JavaScript, SQL, Java, Python, C, Bash  
+🔹 **Frameworks & Libraries:** Laravel, Vue.js, Bootstrap, Blade
 🔹 **Databases:** MySQL, PostgreSQL, SQLite  
 🔹 **Tools:** Git, GitHub, Bitbucket, Jira, Trello, Slack 
-🔹 **Best Practices:** SOLID, TDD, Design Patterns, Agile  
+🔹 **Best Practices:** SOLID, TDD, Design Patterns, Agile
 
 ---
 
